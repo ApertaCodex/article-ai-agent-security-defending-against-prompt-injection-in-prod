@@ -542,19 +542,3 @@ The defenses available today are layered and probabilistic, not absolute. Input 
 Build your [agent security posture](https://omnithium.ai/security) around two assumptions: that injection attempts will reach your agents, and that some fraction of them will partially succeed. Your architecture should ensure that partial success translates into a detectable, reversible, bounded incident rather than an undetected breach. That is an achievable bar with current tooling, and it is the right place to set your target.
 
 Omnithium provides built-in governance, observability, and security controls that help enterprises harden agent deployments against injection attacks. [Explore the platform](https://omnithium.ai) or [get started with a free plan](https://omnithium.ai/pricing) today.
-
----
-
-*Originally published on the [Omnithium Blog](https://omnithium.ai/blog/ai-agent-security-prompt-injection-defense).*
-
-📚 Explore more articles on the [Omnithium Blog](https://omnithium.ai/blog)
-
-🚀 [Get started with Omnithium](https://omnithium.ai/signup) | [Explore the platform](https://omnithium.ai/platform/) | [Book a demo](https://omnithium.ai/demo/) | [Resources](https://omnithium.ai/resources)
-
----
-
-**[Omnithium](https://omnithium.ai)** -- the AI agent platform for enterprises.
-
-📚 [Explore the Omnithium Blog](https://omnithium.ai/blog) for more insights.
-
-🚀 [Get started](https://omnithium.ai/signup) | [Explore the platform](https://omnithium.ai/platform/) | [Book a demo](https://omnithium.ai/demo/) | [Resources](https://omnithium.ai/resources)
